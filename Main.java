@@ -10,7 +10,7 @@ public class Main {
                 double firstDeerFoodForADay = Double.parseDouble(scan.nextLine());
                 double secondDeerFoodForADay = Double.parseDouble(scan.nextLine());
                 double thirdDeerFoodForADay = Double.parseDouble(scan.nextLine());
-
+                
                 double food1 = daysAway * firstDeerFoodForADay;
                 double food2 = daysAway * secondDeerFoodForADay;
                 double food3 = daysAway * thirdDeerFoodForADay;
