@@ -15,7 +15,9 @@ public class Main {
                 double food2 = daysAway * secondDeerFoodForADay;
                 double food3 = daysAway * thirdDeerFoodForADay;
 
-                double totalFood = food1 + food2 + food3;
+                Deleted - Change
+                    
+                   
 
                 if(totalFood <= givenFood){
                     double foodLeft = givenFood - totalFood;
